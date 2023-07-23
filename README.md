@@ -2,7 +2,24 @@
 ## Automate search for open VNC servers
 ![vnc](https://github.com/cristiancmoises/vncrevolver/assets/86272521/18f2c15d-2232-47f4-b713-093af67daa7a)
 
-|  Features:                                                                         |
+# Table Of Contents
+
+* [`Dependencies`](##Required)
+* [`Install`](#Install)
+* [`Features`](#Features)
+* [`Usage`](#Commands)
+
+
+## Required:
+     pip install pydantic 
+     pip install asyncvnc 
+     pip install aiohttp
+
+# Install:
+    git clone https://github.com/cristiancmoises/vncrevolver
+    cd vncrevolver
+
+|  #Features:                                                                         |
 |------------------------------------------------------------------------------------|
 | 🌎  _Search for many open Vnc Servers around the world_                             |
 | 📍 _Filter by country_                                                             |
@@ -10,12 +27,7 @@
 | 🖥️  _List by Client name_                                                            |
 | ✅  _Checks them for vulnerabilities by rebooting the machine via Ctrl+ALT+DEL, obtaining root access through the operating system bootloader easyly._ |
 
-## Required:
-     pip install pydantic 
-     pip install asyncvnc 
-     pip install aiohttp
-     
-# COMMANDS
+# Commands
 ## BASIC:
     python -m vncrevolver
     
