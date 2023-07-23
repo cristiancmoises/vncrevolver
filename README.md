@@ -10,16 +10,22 @@
 | 🖥️  _List by Client name_                                                            |
 | ✅  _Checks them for vulnerabilities by rebooting the machine via Ctrl+ALT+DEL, obtaining root access through the operating system bootloader easyly._ |
 
-> # BASIC:
+## Required:
+     pip install pydantic 
+     pip install asyncvnc 
+     pip install aiohttp
+     
+# COMMANDS
+## BASIC:
     python -m vncrevolver
     
-> # DEEP SEARCH:
+## DEEP SEARCH:
     python -m vncrevolver --clientname ubuntu --count 10
 
-> # CTRL + ALT + DEL  | CHECK
+## CTRL + ALT + DEL  | CHECK
     python -m vncrevolver --clientname ubuntu --count 10 --check_crt_alt_del
 
-> # CHECK A SPECIFIC ADDRESS:
+## CHECK A SPECIFIC ADDRESS:
     python -m vncrevolver --check_crt_alt_del 123.12.1.23:5901
 
 > # START ME UP!   
