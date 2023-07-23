@@ -59,8 +59,6 @@
     --screen_delay SCREEN_DELAY
                         Delay between taking two screenshots in milliseconds
 
-    If you specify one of the filtering parameters, a search by fitration will be launched, otherwise a search for random VNCs will be launched. If you specify the --count option, the required VNC
-    number will be found. The number of found VNCs may be less than the --count parameter when searching with filtering.
 
 > # Use filters:
 
