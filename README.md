@@ -18,8 +18,8 @@
 # Install:
     git clone https://github.com/cristiancmoises/vncrevolver
     cd vncrevolver
-
-| # Features:                                                                         |
+# Features
+|    Some Features                                                                   |
 |------------------------------------------------------------------------------------|
 | 🌎  _Search for many open Vnc Servers around the world_                             |
 | 📍 _Filter by country_                                                             |
