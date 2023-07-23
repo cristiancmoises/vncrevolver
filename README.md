@@ -1,6 +1,6 @@
 # VNCREVOLVER
 ## Automate search for open VNC servers
-![vnc](https://github.com/cristiancmoises/vncrevolver/assets/86272521/e390af76-5065-485a-8e59-66be402d185f)
+![vnc](https://github.com/cristiancmoises/vncrevolver/assets/86272521/18f2c15d-2232-47f4-b713-093af67daa7a)
 
 |  Features:                                                                         |
 |------------------------------------------------------------------------------------|
