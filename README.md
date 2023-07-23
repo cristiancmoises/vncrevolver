@@ -4,10 +4,10 @@
 
 # Table Of Contents
 
-* [`Dependencies`](##Required)
-* [`Install`](#Install)
-* [`Features`](#Features)
-* [`Usage`](#Commands)
+* [`Dependencies`](##required)
+* [`Install`](#install)
+* [`Features`](#features)
+* [`Usage`](#commands)
 
 
 ## Required:
