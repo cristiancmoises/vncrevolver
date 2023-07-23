@@ -4,7 +4,7 @@
 
 # Table Of Contents
 
-* [`Dependencies`](##required)
+* [`Dependencies`](#required)
 * [`Install`](#install)
 * [`Features`](#features)
 * [`Usage`](#commands)
